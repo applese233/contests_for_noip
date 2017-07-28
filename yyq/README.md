@@ -12,7 +12,7 @@
 |contest2|A|Y|Y|Y|Y|X|X
 |contest3|A|Y|Y|W|Y|X|X
 |contest4|Y|Y|A|A|W|X|X
-|contest5|W|W|W|W|W|X|X
+|contest5|A|W|W|W|W|X|X
 |contest6|W|W|W|W|W|W|X
 |contest7|A|W|W|W|W|X|X
 |contest8|Y|Y|Y|A|W|W|W
@@ -27,4 +27,4 @@
 |contest17|Y|Y|Y|A|A|X|X
 |contest18|A|Y|A|Y|A|W|X
 |contest19|Y|Y|A|A|A|X|X
-|contest20|Y|Y|A|W|A|Y|W
+|contest20|Y|Y|A|A|A|Y|W
